@@ -16,8 +16,7 @@ $request = json_decode($postdata);
 $suphone = $request->uphone;
 $yzm = $request->yzm;
 
-/*$suphone = '15954698669';
-$yzm = '7716';*/
+
 $time = date("Y-m-d");
 
 
