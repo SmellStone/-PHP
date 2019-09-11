@@ -14,9 +14,6 @@ $ccourse = $request->course;
 $phone = $request->phone;
 $ccomment = $request->comment;
 
-//$ccourse = '数据结构';
-//$phone = '15954698669';
-//$ccomment = '123456';
 
 $ctime = date("Y-m-d");
 
