@@ -18,11 +18,6 @@ $score = $request->score;//评分
 $estimate = $request->estimate;//评论
 $time = $request->time;//时间
 
-//$course = '数据结构';
-//$phone = '15954698669';
-//$score = '4';
-//$estimate = '还不错';
-//$time = date("Y-m-d");
 
 
 
