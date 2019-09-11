@@ -13,12 +13,7 @@ $postdata = file_get_contents("php://input");
 $request = json_decode($postdata);
 $ccid = $request->cid; //贴吧详情页返回数据时返回的cid
 
-//$ccid ='4';
-//$csphone = '15954698668';
-//$cfphone = '15954698669';
-//$csecond = '说的很不错,我赞同，123';
-//$cstime = date("Y-m-d");
-//$cfirst = '还可以';
+
 
 
 $servername="localhost";
