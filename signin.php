@@ -19,10 +19,6 @@ $estimate = $request->estimate;
 $retime = date("Y-m-d");
 
 
-/*$time = '2019-08-29';
-$uphone = '15954698669';
-$count = '1';
-$estimate = true;*/
 
 
 
