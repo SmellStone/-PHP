@@ -13,7 +13,6 @@ $postdata = file_get_contents("php://input");
 $request = json_decode($postdata);
 $uphone = $request->phone;;//手机号
 
-//$uphone='17862178888';
 
 $servername="localhost";
 $username="root";
