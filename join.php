@@ -16,8 +16,6 @@ $phone = $request->uphone;
 $course = $request->course;
 
 
-//$phone = "15954698669";
-//$course = "大学英语";
 
 
 $servername="localhost";
