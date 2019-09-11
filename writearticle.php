@@ -19,11 +19,6 @@ $cphone = $request->uphone;
 $ctitle = $request->title;
 $ctime = $request->time;
 
-//$cmodule = '计算机';
-//$ccomment = '*倾斜*';
-//$cphone = '15954698669';
-//$ctitle = '测试';
-//$ctime = '2019-09-30';
 
 
 
