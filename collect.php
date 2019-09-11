@@ -15,8 +15,7 @@ $request = json_decode($postdata);
 $phone = $request->uphone;
 $ccourse = $request->ucourse;
 
-//$phone = '15954698669';
-//$ccourse = '大学法语';
+
 
 $servername="localhost";
 $username="root";
