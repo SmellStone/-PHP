@@ -55,8 +55,8 @@ else {
 }
 
 
-$Uid = '薛定谔拉拉';
-$Key = 'd41d8cd98f00b204e980';
+$Uid = '';
+$Key = '';
 $smsMob = $suphone;
 $smsText = '您的验证码为：'.$yzm.'，请尽快验证，谨防泄漏。';
 $url='http://utf8.api.smschinese.cn/?Uid='.$Uid.'&Key='.$Key.'&smsMob='.$smsMob.'&smsText='.$smsText;
