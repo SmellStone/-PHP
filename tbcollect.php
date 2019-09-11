@@ -16,8 +16,7 @@ $cid = $request->cid;
 $phone = $request->phone;
 
 
-//$phone = '15954698669';
-//$cid = '5';
+
 
 $ctime = date("Y-m-d");
 
