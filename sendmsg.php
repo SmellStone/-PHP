@@ -107,7 +107,7 @@ if(empty($mobile)){
     exit('请求超时，请刷新页面后重试');
 }*/
 
-$post_data = "account=C00135601&password=87edb8b7bf2b9601b6c528d5a029cbb6&mobile=".$mobile."&content=".rawurlencode("您的验证码是：".$mobile_code."。请不要把验证码泄露给其他人。");
+$post_data = "account=通行证&password=密码&mobile=".$mobile."&content=".rawurlencode("您的验证码是：".$mobile_code."。请不要把验证码泄露给其他人。");
 //查看用户名 登录用户中心->验证码通知短信>产品总览->API接口信息->APIID
 //查看密码 登录用户中心->验证码通知短信>产品总览->API接口信息->APIKEY
 $gets =  xml_to_array(Post($post_data, $target));
