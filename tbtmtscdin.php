@@ -17,12 +17,7 @@ $csecond = $request->estimate;//评论
 $cstime = $request->time;//时间
 $cfirst = $request->first;//第一级评论
 
-//$ccid ='4';
-//$csphone = '15954698668';
-//$cfphone = '15954698669';
-//$csecond = '说的很不错,我赞同，123';
-//$cstime = date("Y-m-d");
-//$cfirst = '还可以';
+
 
 
 $servername="localhost";
