@@ -20,13 +20,7 @@ $uplace = $request->uplace; //工作地点
 $uschool = $request->uschool; //学校
 $uwork = $request->uwork; //职业
 
-//$uphone = '17862178888'; //手机号
-//$umname = '张老师'; //昵称
-//$uemail = '789456@163.com'; //邮箱
-//$uqq = '789456'; //QQ
-//$uplace = '北京'; //工作地点
-//$uschool = '清华大学'; //学校
-//$uwork = '教授'; //职业
+
 
 $servername="localhost";
 $username="root";
