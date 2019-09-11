@@ -17,10 +17,6 @@ $opwd = $request->opwd;//原密码
 $npwd = $request->npwd;//新密码
 $rnpwd = $request->rnpwd;//二次确认
 
-//$uphone = '17862178888';
-//$opwd = '666666';//原密码
-//$npwd = '123456';//新密码
-//$rnpwd = '123456';//二次确认
 
 $servername="localhost";
 $username="root";
