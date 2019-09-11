@@ -19,12 +19,6 @@ $cphone = $request->uphone;
 $ctitle = $request->title;
 $cemail = $request->email;
 
-//$ckind = '课程学习';
-//$ccomment = '课有点少';
-//$cphone = '15954698669';
-//$ctitle = '课少';
-//$cemail = '675548733@qq.com';
-//$cimg = '123456';
 
 
 
