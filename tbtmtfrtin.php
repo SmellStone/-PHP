@@ -17,10 +17,7 @@ $cfirst = $request->estimate;//评论
 $cftime = $request->time;//时间
 
 
-//$ccid ='4';
-//$cfphone = '15954698669';
-//$cfirst = '说的很不错';
-//$cftime = date("Y-m-d");
+
 
 
 $servername="localhost";
