@@ -23,17 +23,6 @@ $uwx = $request->uwx;//微信
 $ucount = $request->ucount;//积分
 $uclass =$request->uclass;//等级
 
-//$uphone = '15954698669';
-//$uname = '霸霸';
-//$uhy = '会员';
-//$usex = '保密';
-//$uemail ='123456@163.com';
-//$uintroduce = '我最牛逼';
-//$umname = '我是你霸霸';
-//$uqq = '666666888';
-//$uwx = 'a666666888';
-//$ucount = '9999';
-//$uclass = '9';
 
 
 
